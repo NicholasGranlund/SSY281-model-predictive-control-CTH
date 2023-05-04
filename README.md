@@ -40,13 +40,13 @@ Topics:
 - Forward and backward **reachability**
 - Persistent **feasibility**
 
-## Assignment 5
+## Assignment 5:
 
 Topics:
 - **Linear MPC** design
 - **Finite time** control
 
-## Assignment 6
+## Assignment 6:
 
 Topics:
 - **Lyapunov** functions
